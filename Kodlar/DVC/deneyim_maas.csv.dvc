@@ -1,0 +1,5 @@
+outs:
+- md5: 8a28b74a1fb3f565c3b0badbd523bb46
+  size: 26089
+  hash: md5
+  path: deneyim_maas.csv
