@@ -1,0 +1,1 @@
+# Operasyonel-Yapay-Zeka
